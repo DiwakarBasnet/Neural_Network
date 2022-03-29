@@ -17,7 +17,3 @@
 1. Multilayer Perceptron(MLP) --> ReLU
 2. Convolutional Neural Network(CNN) --> ReLU
 3. Recurrent Neural Network(RNN) --> Tanh or/and Sigmoid
-
-## Note:
-1. accuracy_score is for classification problems only.
-2. For regression problem no need to put metric['accuracy'] in model.compile.
