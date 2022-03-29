@@ -1,10 +1,10 @@
 # Neural Network
 
 ## Layers of neural network:
-1. Input layer- Every NN has one input layer and number of neurons equals number of features or + 1 for bias.
-2. Output layer- Every NN has one output layer. If NN is regression model then single node for output layer.
+1. **Input layer-** Every NN has one input layer and number of neurons equals number of features or + 1 for bias.
+2. **Output layer-** Every NN has one output layer. If NN is regression model then single node for output layer.
                  If NN is classifier model then single node for binary classification and for multi classification more than one node.
-3. Hidden layer- Numbers of layers and neurons are hyperparameters.
+3. **Hidden layer-** Numbers of layers and neurons are hyperparameters.
 
 ## Activation functions:
 ### Output layer-
