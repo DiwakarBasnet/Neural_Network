@@ -11,9 +11,9 @@ We have train and test dataset. Train dataset has both input and output variable
 -> Number of observations in test set = 5681
 
 ## Approach to problem:
-1) Pre-process the data.\
-2) Define the architecture of model.\
-   (since it is a regression problem, we have linear activation function in output layer.)\
-3) Train model.\
-4) Apply same pre-processing steps on test set.\
+1) Pre-process the data.
+2) Define the architecture of model.
+   (since it is a regression problem, we have linear activation function in output layer.)
+3) Train model.
+4) Apply same pre-processing steps on test set.
 5) Generate predictions for the test set using trained model.
