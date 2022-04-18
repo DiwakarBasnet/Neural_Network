@@ -12,8 +12,10 @@
 2. Binary classification problem --> Logistic(sigmoid)
 3. Multiclass classification problem --> Softmax
 4. Multilabel classification problem --> one node per class sigmoid activation
+![alt text](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Output-Layer-Activation-Function.png)
 
 ### Hidden layer-
 1. Multilayer Perceptron(MLP) --> ReLU
 2. Convolutional Neural Network(CNN) --> ReLU
 3. Recurrent Neural Network(RNN) --> Tanh or/and Sigmoid
+![alt text](https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Hidden-Layer-Activation-Function.png)
