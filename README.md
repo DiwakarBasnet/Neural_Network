@@ -22,4 +22,5 @@
 
 ## Loss functions:
 Loss function show how deviated the prediction is with actual prediction. Machines learn to decrease loss function by moving close to the ground truth. There are many functions out there to find the loss based on the predicted and actual value depending on the problem. And optimizers are used to minimize the loss to make predictions better.
+
 ![](loss%20function.png)
